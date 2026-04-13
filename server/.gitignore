@@ -15,9 +15,9 @@ yarn-error.log*
 # =====================
 # Env
 # =====================
-.env
-.env.*
-!.env.example
+client/.env.development
+client/.env.production
+server/.env
 
 # =====================
 # Build
